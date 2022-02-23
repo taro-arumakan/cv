@@ -101,6 +101,18 @@
   "portfolio":{
     "projects": [
       {
+        "title": "GMC",
+        "category": "EC Site for a premium BBQ meats shop, built on Shopify",
+        "image": "logo_transparent_clipped.svg",
+        "url": "https://gmc.mazina.co.jp"
+      },
+      {
+        "title": "Como En Casa",
+        "category": "LP page for a nursery in central Tokyo",
+        "image": "logo_transparent_clipped.svg",
+        "url": "https://comoencasa.jp/about_us"
+      },
+      {
         "title": "Grand Field",
         "category": "Website for a camping site in Saitama, Japan",
         "image": "logo_transparent_clipped.svg",
