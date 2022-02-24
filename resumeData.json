@@ -93,6 +93,14 @@
         "level":"60%"
       },
       {
+        "name":"HTML/CSS",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
         "name":".NET",
         "level":"50%"
       }
@@ -100,6 +108,18 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title": "GMC",
+        "category": "EC Site for a premium BBQ meats shop, built on Shopify",
+        "image": "210730_83255_700x.jpeg",
+        "url": "https://gmc.mazina.co.jp"
+      },
+      {
+        "title": "Como En Casa",
+        "category": "LP page for a nursery in central Tokyo",
+        "image": "comoencasatop.png",
+        "url": "https://comoencasa.jp/about_us"
+      },
       {
         "title": "Grand Field",
         "category": "Website for a camping site in Saitama, Japan",
@@ -129,7 +149,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"I have known Taro-san for almost 10 years now, yet, he never stops surprising me even today, with his depth of knowledge in Python and Deal modelling. Over the time, I have seen him take up ridiculous amount of responsibility and come out on top every single time. But the real treat about Taro is none of these, but the fact that he does all of this while being Zen, oblivious to all the chaos around him. He quite simply has nerves of steel. To Taro is to Zen, to Zen is to Taro! Above all, he is a great mentor and friend who you can reply on anytime, quite literally.",
+        "text":"I have known Taro-san for almost 10 years now, yet, he never stops surprising me even today, with his depth of knowledge in Python and Deal modelling. Over the time, I have seen him take up ridiculous amount of responsibility and come out on top every single time. But the real treat about Taro is none of these, but the fact that he does all of this while being Zen, oblivious to all the chaos around him. He quite simply has nerves of steel. To Taro is to Zen, to Zen is to Taro! Above all, he is a great mentor and friend who you can rely on anytime, quite literally.",
         "user":"Aby Arakkal"
       }
     ]
