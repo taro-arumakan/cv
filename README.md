@@ -28,8 +28,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-### deploy the contents of ./build dir
+### `npm run deploy`
 
-`gh-pages` npm module can do this to deploy your ./build dir to gh-pages branch, in order to host it on github.io.
-It might be obsolete now though, as github pages now has an option to select hosting directory set to /doc.
+to run the build above then publish contents in ./build to github default `gh-pages` branch.
+
+
+*this might be obsolete now though, as github pages now has an option to select hosting directory set to /doc.
 Probably `npm run build` can save output to ./doc instead of ./build, and we can include this dir to push, and let github.io host the page out of the main branch.
