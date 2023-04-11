@@ -85,6 +85,14 @@
         "level":"80%"
       },
       {
+        "name":"TypeScript",
+        "level":"50%"
+      },
+      {
+        "name":"Next.js",
+        "level":"50%"
+      },
+      {
         "name":"SQL",
         "level":"80%"
       },
@@ -108,6 +116,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title": "LG Styler's Style",
+        "category": "A responsive marketing page for the LG Styler, built on plain vanilla html/javascript",
+        "image": "lg_stylers_style.jpeg",
+        "url": "https://www.lg.com/jp/lg-styler/stylers-style/index.html"
+      },
       {
         "title": "GMC",
         "category": "EC Site for a premium BBQ meats shop, built on Shopify",
